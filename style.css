@@ -1,0 +1,22 @@
+.logo {
+    width: 100px;
+}
+
+.Espaço {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 130px;
+}
+
+.planos {
+    margin: 50px;
+}
+
+.Creditos {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
